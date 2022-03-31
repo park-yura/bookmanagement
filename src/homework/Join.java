@@ -7,11 +7,32 @@ import java.util.Scanner;
 
 public class Join {
 	private String name;
-
+	private String id;	
 	private String password;
 	private String socialNumber;
 	
+	HashMap<String, String> membertable = new HashMap<String, String>(); 
+	
+	public void setname(String name) {
+		this.name = name;
+	}
 
+	public String get name() {
+		
+	}
+	
+	public void setid(String id) {
+		this.n = name;
+	}
+
+	public void setname(String name) {
+		this.name = name;
+	}
+
+	public void setname(String name) {
+		this.name = name;
+	}
+	
 	public void name() {
 		
 	}
